@@ -87,4 +87,4 @@ ___
 - перед git pull или git push выполнить идентификацию компа с помощью команд
 + eval "$(ssh-agent -s)” 
 + ssh-add ~/.ssh/ssh-key-09
-!
+!/////
